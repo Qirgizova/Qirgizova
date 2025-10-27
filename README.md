@@ -1,4 +1,4 @@
-# 👋 Salom, men Gulsanamman  
+# 👋 Salom, men Qirgʻizova Gulsanam 
 
 Men hozirda **Data Analytics** yo‘nalishini o‘rganayapman.  
 Asosan **Python**, **Pandas**, va **SQL** bilan ishlashni o‘rganib, amaliy loyihalar qilishni maqsad qilganman.  
